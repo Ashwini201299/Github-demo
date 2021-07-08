@@ -3,7 +3,7 @@ def add(x,y):
     return x+y
 #subtraction implementation
 def subtract(x,y):
-    pass
+    return x-y     #feature1 branch
 #multiply
 def multiply(x,y):
     pass
